@@ -1,3 +1,5 @@
-equipment: 
-  name: recommendServer
-  logPath: http://192.168.0.114:8080/log/${equipment.name}
+test-datasource: 
+  url: jdbc:mysql://jeong-pro.tistory.com/test
+  username: guest
+  password: guest
+  driver-class-name: com.mysql.jdbc.Driver
