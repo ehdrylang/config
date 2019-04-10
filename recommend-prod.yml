@@ -1,5 +1,5 @@
 testDatasource: 
   url: jdbc:mysql://jeong-pro.tistory.com/test
-  username: guest
-  password: guest
+  username: guest1
+  password: guest1
   driverClassName: com.mysql.jdbc.Driver
